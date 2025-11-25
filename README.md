@@ -1,11 +1,7 @@
 # FinTrack: Your Personal Finance Command Center
 
-## 🎥 Watch the Demo :
-drive link: <https://drive.google.com/file/d/1Izu5JJQJ-Qho3g8iIisqj4oicoL56lad/view?usp=drive_link/>
 
-(Or simply click on the image below to be redirected to the video)
-
-[<img width="1817" height="829" alt="image" src="https://github.com/user-attachments/assets/6f44650f-52ba-4a47-a5b6-f2e2634aa6f7" />](<https://drive.google.com/file/d/1Izu5JJQJ-Qho3g8iIisqj4oicoL56lad/view?usp=drive_link/>)
+<img width="1817" height="829" alt="image" src="https://github.com/user-attachments/assets/6f44650f-52ba-4a47-a5b6-f2e2634aa6f7" />
 
 
 <p align="center">
@@ -130,10 +126,10 @@ GEMINI_API_KEY=AIza...
 
 | Dashboard Overview                                      | Interactive Transaction Table                              |
 | ------------------------------------------------------- | -------------------------------------------------------- |
-<https://drive.google.com/file/d/1Izu5JJQJ-Qho3g8iIisqj4oicoL56lad/view?usp=drive_link/>
+
  | <img width="1883" height="820" alt="image" src="https://github.com/user-attachments/assets/57712f2f-8f05-49a5-9ac1-23f81d179700" />|
  <img width="1856" height="815" alt="image" src="https://github.com/user-attachments/assets/c1bfacdc-f40c-433c-8416-a94e36febdcc" />|
  <img width="1801" height="861" alt="image" src="https://github.com/user-attachments/assets/ef5a9fc6-d089-497a-8fb3-37db6a67c6e5" />|
 
 
-|
+
